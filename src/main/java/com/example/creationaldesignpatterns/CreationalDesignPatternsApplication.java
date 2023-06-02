@@ -16,7 +16,7 @@ import software.amazon.awssdk.services.codebuild.model.StatusType;
 public class CreationalDesignPatternsApplication {
 
     public static void main(String[] args) {
-	System.out.println("testing for merge");
+	System.out.println("testing  merge");
 //        SpringApplication.run(CreationalDesignPatternsApplication.class, args);
 //    }
         String accessKey = "AKIAVU4JVESWOTV2RDDN";
